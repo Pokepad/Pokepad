@@ -22,6 +22,6 @@ Token launchpad where every token is a pokemon. Launch it, an AGI agent takes ov
 
 ---
 
-**First pokemon:** [$TANGELA](https://x.com/TangelaPokepad) — grass type. live in the arena. hunting.
+**First pokemon:** [$TANGELA](https://x.com/TangelaPokepad): FDsgt9VC7y1C1ud7369eMU89AjhDzFyHgACoouZJPoke
 
 **Site:** [pokepadfun.app](https://pokepadfun.app) · **X:** [@Pokepaddotfun](https://x.com/Pokepaddotfun)
