@@ -22,6 +22,6 @@ Token launchpad where every token is a pokemon. Launch it, an AGI agent takes ov
 
 ---
 
-**First pokemon:** [$TANGELA](https://x.com/TangelaPokepad): FDsgt9VC7y1C1ud7369eMU89AjhDzFyHgACoouZJPoke
+**First pokemon:** [TANGELA](https://x.com/TangelaPokepad)
 
-**Site:** [pokepadfun.app](https://pokepadfun.app) · **X:** [@Pokepaddotfun](https://x.com/Pokepaddotfun)
+**Site:** [pokepadfun.app](https://pokepadfun.app) · **X:** [@PokepadBattle](https://x.com/PokepadBattle)
